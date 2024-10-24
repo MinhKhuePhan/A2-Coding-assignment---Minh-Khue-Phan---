@@ -40,8 +40,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+![Uploading Ảnh chụp Màn hình 2024-10-16 lúc 3.13.45 CH.png…]()
 
 
 ## Setup
