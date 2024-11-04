@@ -1,6 +1,6 @@
 # A2-Coding-assignment---Minh-Khue-Phan---
 
-# Project Name
+# Recreating Vietnam's National Anthem in TunePad
 > Outline a brief description of your project.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
