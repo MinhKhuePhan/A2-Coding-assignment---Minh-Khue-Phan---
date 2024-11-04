@@ -18,11 +18,13 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+This project, "Recreating Vietnam's National Anthem in TunePad," is a musical coding initiative designed to bring the Vietnamese national anthem, Tiến Quân Ca, to life using Python. The project aims to help Vietnamese students in Australia reconnect with their homeland by evoking a sense of cultural pride and nostalgia through music.
+
+Problem it solves: For many Vietnamese students living abroad, maintaining a strong connection to their culture can be challenging. This project addresses the sense of disconnection by recreating a familiar, emotionally resonant song that has been a part of our lives since childhood.
+
+Purpose: The primary purpose of this project is to bridge the emotional distance felt by Vietnamese students in Australia, creating a piece that allows them to remember and celebrate their roots, even when far from home.
+
+Why I undertook it: As someone who values the power of music to evoke memory and connection, I wanted to use coding as a medium to foster this sense of identity. At first, I didn’t realize that music could be created through coding, but after working on this project, I now know it’s possible. This experience allowed me to explore creative coding in a way that strengthened my connection to my homeland. 
 
 
 ## Technologies Used
