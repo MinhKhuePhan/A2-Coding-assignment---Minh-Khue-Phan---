@@ -1,7 +1,6 @@
-# A2-Coding-assignment---Minh-Khue-Phan---
-
+# Assignment 2: Code Prototype Project 
 # Recreating Vietnam's National Anthem in TunePad
-> Outline a brief description of your project.
+> This project, titled "Recreating Vietnam's National Anthem in TunePad," uses musical coding to bring to life the Vietnamese national anthem, Tiến Quân Ca, on TunePad, a Python-based music composition platform. The goal is to evoke a sense of cultural pride and nostalgia, especially for Vietnamese students in Australia who may feel distant from their homeland. By coding this anthem, the project seeks to strengthen cultural connections through music, blending technical precision with emotional impact. This repository includes the code, documentation, and insights into the creative process behind recreating a beloved national song.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
