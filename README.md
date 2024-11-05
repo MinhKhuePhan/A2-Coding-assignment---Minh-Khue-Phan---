@@ -4,7 +4,7 @@
 > Live demo [_here_](https://tunepad.com/project/90374)). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Background and Purpose](#background-and-purpose)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
