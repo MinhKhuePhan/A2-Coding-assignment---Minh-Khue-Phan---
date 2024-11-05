@@ -70,6 +70,10 @@ Step 1: Press the square button to restart every cell.
 
 Step 2: To start playing the music, press the triangle button. 
 
+# Upload a JSON file to Tunepad
+- Step 1: Go to the JSON file on the left side. 
+
+
 
 ## Code Explanation and Comments
 This is the music sheet 
