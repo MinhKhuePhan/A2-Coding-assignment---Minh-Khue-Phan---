@@ -49,6 +49,16 @@ Open the Link: Click on the [project link](https://tunepad.com/project/90374) to
 
 Explore the Code: On the project page, you can view the code I used to recreate the anthem, including the functions PlayNote, Rest, Beats, Chord, and Velocity.
 
+The project is organized into different cells:
+
+- Melody on Piano: The main melody line of the anthem.
+  
+- Piano Accompaniment: Chord progressions to support the melody.
+  
+- Bass Accompaniment: Adds depth with bass notes.
+  
+- Guitar Accompaniment: Complements the melody with additional harmony.
+
 
 Play the Music: Use the play button in TunePad to listen to the coded rendition of the anthem. This will show you how the melody and accompaniment come together. 
 
