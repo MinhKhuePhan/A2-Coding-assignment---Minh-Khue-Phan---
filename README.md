@@ -75,9 +75,9 @@ Step 2: To start playing the music, press the triangle button.
 
 - Download the Raw File: Click to download the raw file. It may download with the name "JSON file.txt".
 
-- Rename the File: Change the file extension from "JSON file.txt" to "JSON file.json". Confirm and save the changes.
+- Rename the File: Change the file extension from "JSON file.txt" to "JSON file.JSON". Confirm and save the changes.
 
-- Upload to TunePad:Open TunePad. Go to Project > Import. Select the renamed file "JSON file.json" and upload it.
+- Upload to TunePad:Open TunePad. Go to Project > Import. Select the renamed file "JSON file.JSON" and upload it.
 
 You should now have the project imported into TunePad and ready for use.
 
