@@ -24,15 +24,15 @@ However, as international students, we cannot maintain this routine while studyi
 ## Features and Functions
 In this project, I used several key functions in TunePad to bring each part of the Vietnamese national anthem to life. Here’s how each function contributes to the composition:
 
-PlayNote: This function is used to play individual notes, forming the core melody of the anthem. By specifying different notes, I was able to recreate the anthem’s main theme on the piano, ensuring it resonates with the familiar tune that Vietnamese students remember.
+- PlayNote: This function is used to play individual notes, forming the core melody of the anthem. By specifying different notes, I was able to recreate the anthem’s main theme on the piano, ensuring it resonates with the familiar tune that Vietnamese students remember.
 
-Rest: The Rest function introduces pauses between notes, allowing for natural breaks in the melody. This is essential to accurately reflect the rhythm of the anthem, adding emphasis where needed and making the piece feel more authentic.
+- Rest: The Rest function introduces pauses between notes, allowing for natural breaks in the melody. This is essential to accurately reflect the rhythm of the anthem, adding emphasis where needed and making the piece feel more authentic.
 
-Beats: The beats parameter determines the duration of each note, allowing me to control how long each note is held. This parameter is crucial for aligning with the tempo and rhythm of the anthem, ensuring the melody flows smoothly from one note to the next.
+- Beats: The beats parameter determines the duration of each note, allowing me to control how long each note is held. This parameter is crucial for aligning with the tempo and rhythm of the anthem, ensuring the melody flows smoothly from one note to the next.
 
-Chord: Some parts of the anthem require multiple notes to be played simultaneously. The Chord function allows for this by enabling me to define chords (collections of notes) and play them together, adding depth to the piece and enriching the overall harmony.
+- Chord: Some parts of the anthem require multiple notes to be played simultaneously. The Chord function allows for this by enabling me to define chords (collections of notes) and play them together, adding depth to the piece and enriching the overall harmony.
 
-Velocity: The velocity parameter controls the intensity or volume of each note, allowing me to add emotional emphasis at certain points. For example, I increased the velocity at the end of each verse to capture the anthem's powerful and patriotic tone, making the music feel more impactful.
+- Velocity: The velocity parameter controls the intensity or volume of each note, allowing me to add emotional emphasis at certain points. For example, I increased the velocity at the end of each verse to capture the anthem's powerful and patriotic tone, making the music feel more impactful.
 
 Combining these functions, I structured the anthem with a melody line on the piano and accompaniment parts played by additional instruments (bass and guitar) to create a fuller sound. This setup in TunePad allowed me to balance technical accuracy with cultural authenticity, resulting in a familiar and emotionally resonant rendition.
 
