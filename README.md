@@ -1,20 +1,18 @@
 # Assignment 2: Code Prototype Project 
 # Recreating Vietnam's National Anthem in TunePad
-> This project, titled "Recreating Vietnam's National Anthem in TunePad," uses musical coding to bring to life the Vietnamese national anthem, Tiến Quân Ca, on TunePad, a Python-based music composition platform. The goal is to evoke a sense of cultural pride and nostalgia, especially for Vietnamese students in Australia who may feel distant from their homeland. By coding this anthem, the project seeks to strengthen cultural connections through music, blending technical precision with emotional impact. This repository includes the code, documentation, and insights into the creative process behind recreating a beloved national song.
-> Live demo [_here_](https://tunepad.com/project/90374)). <!-- If you have the project hosted somewhere, include the link here. -->
+> This project uses musical coding to recreate Vietnam's national anthem, Tiến Quân Ca, on TunePad. Designed to help Vietnamese students in Australia reconnect with their homeland, this project combines technical precision and cultural pride.
+
 
 ## Table of Contents
 * [Background and Purpose](#background-and-purpose)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+* [Features and Functions](#features-and-functions)
+* [Usage Instructions](#usage-instructions)
+* [Code Explanation and Comments](#code-explaination-and-comments)
+* [Challenges and Solutions](#challenges-and-solutions)
+* [Future Improvements](#future-improvements)
+* [References](#references)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## Background and Purpose
@@ -27,7 +25,7 @@ Purpose: The primary purpose of this project is to bridge the emotional distance
 Why I undertook it: As someone who values the power of music to evoke memory and connection, I wanted to use coding as a medium to foster this sense of identity. At first, I didn’t realize that music could be created through coding, but after working on this project, I now know it’s possible. This experience allowed me to explore creative coding in a way that strengthened my connection to my homeland. 
 
 
-## Technologies Used
+## Features and Functions
 - Tech 1 - version 1.0
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0
