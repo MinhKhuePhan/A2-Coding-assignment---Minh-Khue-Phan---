@@ -77,7 +77,7 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 
  4 most prominent codes that you will see in my TunePad are:
 
-- playNote(?, beats=?): Plays a musical note based on its MIDI number (0-127), where each number corresponds to a specific pitch. With a Tempo di Marcia set at 120 BPM, each beat lasts 0.5 seconds. So, if you write beats = 1, the note will last for 0.5 seconds. 
+- playNote(0, beats=0): Plays a musical note based on its MIDI number (0-127), where each number corresponds to a specific pitch. With a Tempo di Marcia set at 120 BPM, each beat lasts 0.5 seconds. So, if you write beats = 1, the note will last for 0.5 seconds. 
 
 - playNote(0, beats = 0, velocity = 0): I only use velocity for some notes at the end of each verse to set how hard/loud the note sounds. 
 
@@ -88,9 +88,11 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 <img width="173" alt="Ảnh chụp Màn hình 2024-11-05 lúc 4 30 26 CH" src="https://github.com/user-attachments/assets/6c087e2b-4dd6-4c96-a747-02b4231fb0b7">
 
 ## Challenges and Solutions
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+I encountered several challenges while coding this song.
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Setting the Beats: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano, [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI&t=19s), and gradually figured out the appropriate beats for each note.
+
+Playing Multiple Notes Simultaneously: Initially, I was unsure how to play multiple notes at the same time. To address this, I researched examples on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
 
 
 ## Future Improvements
