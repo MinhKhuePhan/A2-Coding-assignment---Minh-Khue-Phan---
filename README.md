@@ -127,21 +127,24 @@ Moreover, I aim to make the coding more dynamic and expressive by incorporating 
 
 ## References
 
-Grigsby, C. (2023). Python for students [LinkedIn Learning course]. LinkedIn. https://www.linkedin.com/learning/python-for-students-2023![image](https://github.com/user-attachments/assets/349dab71-4a95-4abd-ab4b-109c23fbf89d)
+Grigsby, C. (2023). Python for students [LinkedIn Learning course]. LinkedIn. https://www.linkedin.com/learning/python-for-students-2023
+
+LANDR. (2020, February 8). Music scales explained in 6 minutes [Video]. YouTube. https://www.youtube.com/watch?v=PG_u4NDJtwU
+
+National Assembly of Vietnam. (n.d.). Tiến quân ca [PDF file]. Retrieved from https://quochoi.vn/content/tintuc/Lists/News/Attachments/30645/1.Ti%E1%BA%BFn%20qu%C3%A2n%20ca.pdf
 
 TunePad. (n.d.). TunePad documentation. TunePad. https://learn.tunepad.com/docs/
 
-LANDR. (2020, February 8). Music Scales Explained in 6 Minutes. YouTube; Google.https://www.youtube.com/watch?v=PG_u4NDJtwULinks to an external site.![image](https://github.com/user-attachments/assets/10b03fff-6a03-4405-a4d8-1b95d5ad6a94)
+TunePad. (2024). TunePad piano. Learn TunePad. https://learn.tunepad.com/interactives/piano/
 
-•	TunePad. (2024). TunePad Piano. Learn TunePad. https://learn.tunepad.com/interactives/piano/Links to an external site. ![image](https://github.com/user-attachments/assets/0ae0b308-4979-4f3f-87d6-d8988bb11a4f)
-
-
+Vietnamese Musician. (2017). Quốc ca Việt Nam - Tiến quân ca (Vietnamese National Anthem - Marching Song) [Video]. YouTube. https://www.youtube.com/watch?v=JBDmWrH3OGI
 
 
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Minh Khue Phan. 
+Email: Minh.K.Phan@student.uts.edu.au
 
 
 <!-- Optional -->
