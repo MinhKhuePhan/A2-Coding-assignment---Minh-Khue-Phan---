@@ -50,9 +50,14 @@ Open the Link: Click on the [project link](https://tunepad.com/project/90374) to
 Explore the Code: On the project page, you can view the code I used to recreate the anthem, including the functions PlayNote, Rest, Beats, Chord, and Velocity.
 
 
-Play the Music: Use the play button in TunePad to listen to the coded rendition of the anthem. This will give you a sense of how the melody and accompaniment come together. First, on the top right, you will see 2 buttons, triangle and square. 
+Play the Music: Use the play button in TunePad to listen to the coded rendition of the anthem. This will show you how the melody and accompaniment come together. 
+
+First, on the top right, you will see 2 buttons, triangle and square. 
+
 <img width="514" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 25 07 CH" src="https://github.com/user-attachments/assets/cb08e09a-805b-46bd-bd83-fc006ea7295b">
+
 Step 1: Press the square button to restart every cell. 
+
 Step 2: To start playing the music, press the triangle button. 
 
 Understand the Structure: Take a look at the different cells, where I separated the melody and accompaniment to provide a full, layered sound.
