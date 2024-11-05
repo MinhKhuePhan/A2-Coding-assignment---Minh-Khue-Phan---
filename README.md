@@ -90,7 +90,7 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 ## Challenges and Solutions
 I encountered several challenges while coding this song.
 
-Setting the Beats: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano, [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI&t=19s), and gradually figured out the appropriate beats for each note.
+Setting the Beats: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI) and gradually figured out the appropriate beats for each note.
 
 Playing Multiple Notes Simultaneously: Initially, I was unsure how to play multiple notes at the same time. To address this, I researched examples on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
 
