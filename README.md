@@ -75,12 +75,17 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 
 <img width="226" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 39 59 CH" src="https://github.com/user-attachments/assets/f84eb9df-c055-4314-bbfd-2757493bc8ce">
 
-3 most prominent code that you will see in my TunePad is 
-playNote(0)
-playNote(0, beats = 0, velocity = 0)
-rest(beats = 0)
-chord = [0, 1]
+4 most prominent codes that you will see in my TunePad is:
 
+- playNote(?, beats=?): Plays a musical note based on its MIDI number (0-127), where each number corresponds to a specific pitch. With a Tempo di Marcia set at 120 BPM, each beat lasts 0.5 seconds. So, if you write beats = 1, the note will last for 0.5 seconds. 
+
+- playNote(0, beats = 0, velocity = 0): I only use velocity for some notes at the end of each verse to set how hard/loud the note sounds. 
+
+- rest(beats = 0): Add a pause between notes. The length of the pause can be set using the optional beats parameter.
+
+chord = [36,48,60,64,67]: Some notes need to be played simultaneously. I used the chord function to combine notes, allowing multiple pitches to sound simultaneously, such as MIDI numbers 36,48,60,64, and 67.
+
+<img width="173" alt="Ảnh chụp Màn hình 2024-11-05 lúc 4 30 26 CH" src="https://github.com/user-attachments/assets/6c087e2b-4dd6-4c96-a747-02b4231fb0b7">
 
 ## Challenges and Solutions
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
