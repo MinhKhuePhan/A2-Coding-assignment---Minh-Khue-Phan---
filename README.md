@@ -75,7 +75,7 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 
 <img width="226" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 39 59 CH" src="https://github.com/user-attachments/assets/f84eb9df-c055-4314-bbfd-2757493bc8ce">
 
- 4 most prominent codes that you will see in my TunePad are:
+ The 4 most prominent codes that you will see in my TunePad are:
 
 - playNote(0, beats=0): Plays a musical note based on its MIDI number (0-127), where each number corresponds to a specific pitch. With a Tempo di Marcia set at 120 BPM, each beat lasts 0.5 seconds. So, if you write beats = 1, the note will last for 0.5 seconds. 
 
@@ -90,16 +90,17 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 ## Challenges and Solutions
 I encountered several challenges while coding this song.
 
-Setting the Beats: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI) and gradually figured out the appropriate beats for each note.
+- Setting the Beats: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI) and gradually figured out the appropriate beats for each note.
 
-Playing Multiple Notes Simultaneously: Initially, I was unsure how to play multiple notes at the same time. To address this, I researched examples on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
+- Playing Multiple Notes Simultaneously: Initially, I was unsure how to play multiple notes at the same time. To address this, I researched examples on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
 
 
 ## Future Improvements
-How does one go about using it?
-Provide various use cases and code examples here.
+In the future, I would like to expand the project by including additional verses of the anthem, as I currently focus only on the main verse commonly sung by students. Given more time, I plan to code the other verse to render the anthem completely.
 
-`write-your-code-here`
+Additionally, I feel something may be missing in the current version, perhaps due to the coding limitations or playback speed in TunePad. I’ve noticed that this version feels a bit slower than expected. To address this, I’ll experiment with tempo adjustments and playback features to capture the anthem’s full energy and pace.
+
+Moreover, I aim to make the coding more dynamic and expressive by incorporating more advanced functions beyond the basic four I used initially. By adding varied techniques and code functions, I hope to make the project more vibrant and musically rich, capturing the full spirit of the anthem.
 
 
 ## References
