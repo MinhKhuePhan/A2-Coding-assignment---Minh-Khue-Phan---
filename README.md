@@ -85,7 +85,7 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 
 <img width="226" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 39 59 CH" src="https://github.com/user-attachments/assets/f84eb9df-c055-4314-bbfd-2757493bc8ce">
 
- The 4 most prominent codes that you will see in my TunePad are:
+ The four most prominent codes that you will see in my TunePad are:
 
 - playNote(0, beats=0): Plays a musical note based on its MIDI number (0-127), where each number corresponds to a specific pitch. With a Tempo di Marcia set at 120 BPM, each beat lasts 0.5 seconds. So, if you write beats = 1, the note will last for 0.5 seconds. 
 
