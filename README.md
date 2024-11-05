@@ -66,8 +66,20 @@ This is the music sheet
 
 <img width="811" alt="Ảnh chụp Màn hình 2024-11-04 lúc 12 22 56 CH" src="https://github.com/user-attachments/assets/1e1c9822-96df-4475-9d1f-d20b38702107">
 
+
 You will see the music sheet set, with the BPM being 120 and 4/4. That is why, on top of the TunePad, you will see the reason why I set the BPM and time like this: 
+
 <img width="382" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 35 25 CH" src="https://github.com/user-attachments/assets/4f758c55-97fd-44ea-b672-e73d7571cbc4">
+
+On the right-hand side, in the cell sections, I have 1 cell for melody playing on the piano and 3 other cells for accompaniment playing on the piano, bass, and guitar. 
+
+<img width="226" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 39 59 CH" src="https://github.com/user-attachments/assets/f84eb9df-c055-4314-bbfd-2757493bc8ce">
+
+3 most prominent code that you will see in my TunePad is 
+playNote(0)
+playNote(0, beats = 0, velocity = 0)
+rest(beats = 0)
+chord = [0, 1]
 
 
 ## Challenges and Solutions
