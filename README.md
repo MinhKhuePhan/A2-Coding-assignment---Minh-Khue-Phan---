@@ -17,7 +17,7 @@
 <!-- * [License](#license) -->
 
 
-## General Information
+## Background and Purpose
 This project, "Recreating Vietnam's National Anthem in TunePad," is a musical coding initiative designed to bring the Vietnamese national anthem, Tiến Quân Ca, to life using Python. The project aims to help Vietnamese students in Australia reconnect with their homeland by evoking a sense of cultural pride and nostalgia through music.
 
 Problem it solves: For many Vietnamese students living abroad, maintaining a strong connection to their culture can be challenging. This project addresses the sense of disconnection by recreating a familiar, emotionally resonant song that has been a part of our lives since childhood.
