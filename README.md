@@ -126,7 +126,18 @@ Moreover, I aim to make the coding more dynamic and expressive by incorporating 
 
 
 ## References
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+
+Grigsby, C. (2023). Python for students [LinkedIn Learning course]. LinkedIn. https://www.linkedin.com/learning/python-for-students-2023![image](https://github.com/user-attachments/assets/349dab71-4a95-4abd-ab4b-109c23fbf89d)
+
+TunePad. (n.d.). TunePad documentation. TunePad. https://learn.tunepad.com/docs/
+
+LANDR. (2020, February 8). Music Scales Explained in 6 Minutes. YouTube; Google.https://www.youtube.com/watch?v=PG_u4NDJtwULinks to an external site.![image](https://github.com/user-attachments/assets/10b03fff-6a03-4405-a4d8-1b95d5ad6a94)
+
+•	TunePad. (2024). TunePad Piano. Learn TunePad. https://learn.tunepad.com/interactives/piano/Links to an external site. ![image](https://github.com/user-attachments/assets/0ae0b308-4979-4f3f-87d6-d8988bb11a4f)
+
+
+
+
 
 
 ## Contact
