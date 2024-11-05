@@ -38,10 +38,18 @@ Combining these functions, I structured the anthem with a melody line on the pia
 
 
 ## Usage Instructions
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+To experience the recreated Vietnamese national anthem in TunePad, you can view the project using the link below:
+
+[View Project on TunePad](https://tunepad.com/project/90374)
+
+
+This link provides a read-only view, allowing you to listen to the anthem and explore the code without the ability to make changes. Simply follow these steps:
+
+Open the Link: Click on the project link to open the TunePad project page.
+Explore the Code: On the project page, you can view the code I used to recreate the anthem, including the functions PlayNote, Rest, Beats, Chord, and Velocity.
+Play the Music: Use the play button in TunePad to listen to the coded rendition of the anthem. This will give you a sense of how the melody and accompaniment come together.
+Understand the Structure: Take a look at the different cells, where I separated the melody and accompaniment to provide a full, layered sound.
+Feel free to explore and observe how each part contributes to the final musical piece. Note that collaboration and editing are disabled for this link to maintain the original composition.
 
 
 ## Code Explanation and Comments
