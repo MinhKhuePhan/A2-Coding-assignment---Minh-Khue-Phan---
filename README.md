@@ -45,7 +45,7 @@ To experience the recreated Vietnamese national anthem in TunePad, you can view 
 
 This link provides a read-only view, allowing you to listen to the anthem and explore the code without the ability to make changes. Simply follow these steps:
 
-Open the Link: Click on the project link to open the TunePad project page.
+Open the Link: Click on the [project link](https://tunepad.com/project/90374) to open the TunePad project page.
 
 Explore the Code: On the project page, you can view the code I used to recreate the anthem, including the functions PlayNote, Rest, Beats, Chord, and Velocity.
 
