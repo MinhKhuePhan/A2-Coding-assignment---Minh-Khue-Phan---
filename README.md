@@ -71,7 +71,7 @@ Step 1: Press the square button to restart every cell.
 Step 2: To start playing the music, press the triangle button. 
 
 ### How to Upload a JSON File to TunePad
-- Access the JSON File: Locate the JSON file on the left side panel.
+- Access the JSON File: Locate the JSON file on top of the README file.  
 
 - Download the Raw File: Click to download the raw file. It may download with the name "JSON file.txt".
 
