@@ -82,7 +82,6 @@ Step 2: To start playing the music, press the triangle button.
 You should now have the project imported into TunePad and ready for use.
 
 
-
 ## Code Explanation and Comments
 This is the music sheet 
 
