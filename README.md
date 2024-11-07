@@ -4,14 +4,15 @@
 
 
 ## Table of Contents
-* [Background and Purpose](#background-and-purpose)
-* [Features and Functions](#features-and-functions)
-* [Usage Instructions](#usage-instructions)
-* [Code Explanation and Comments](#code-explaination-and-comments)
-* [Challenges and Solutions](#challenges-and-solutions)
-* [Future Improvements](#future-improvements)
-* [References](#references)
-* [Contact](#contact)
+
+- [Background and Purpose](#background-and-purpose)
+- [Features and Functions](#features-and-functions)
+- [Usage Instructions](#usage-instructions)
+- [Code Explanation and Comments](#code-explanation-and-comments)
+- [Challenges and Solutions](#challenges-and-solutions)
+- [Future Improvements](#future-improvements)
+- [References](#references)
+- [Contacts](#contacts)
 
 
 
