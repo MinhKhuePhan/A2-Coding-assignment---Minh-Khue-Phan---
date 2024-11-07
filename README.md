@@ -28,6 +28,7 @@ In this project, I used several key functions in TunePad to bring each part of t
 
 **PlayNote**: This function plays individual notes based on their MIDI number.
 - Example of using playNote
+  
 playNote(60, beats=1) 
 
 Here, playNote(60, beats=1) plays the note with MIDI number 60 (Middle C) for 1 beat.
@@ -35,6 +36,7 @@ Here, playNote(60, beats=1) plays the note with MIDI number 60 (Middle C) for 1 
 
 **Rest**: The Rest function introduces pauses between notes.
 - Example of a Rest
+  
 Rest(beats=0.5) 
 
 This half-beat rest creates a break in the melody, giving it rhythm and emphasis.
@@ -42,6 +44,7 @@ This half-beat rest creates a break in the melody, giving it rhythm and emphasis
 
 **Beats**: This parameter specifies how long a note or rest should last.
 - Example of beats in playNote
+  
 playNote(62, beats=2) 
 
 Setting beats=2 makes the note last longer, aligning with the anthem’s tempo and flow.
@@ -49,6 +52,7 @@ Setting beats=2 makes the note last longer, aligning with the anthem’s tempo a
 
 **Chord**: This function allows multiple notes to play simultaneously.
 - Example of a chord
+  
 chord = [60, 64, 67]  # Define a C major chord (C, E, G)
 playNote(chord, beats=1.5)
 
@@ -57,6 +61,7 @@ In this example, playNote(chord, beats=1.5) plays a C major chord, adding harmon
 
 **Velocity**: This parameter adjusts the volume or intensity of a note.
 - Example with velocity
+  
 playNote(60, beats=1, velocity=100)  # Plays Middle C loudly
 
 Setting velocity=100 makes the note louder, emphasizing strong parts of the anthem.
