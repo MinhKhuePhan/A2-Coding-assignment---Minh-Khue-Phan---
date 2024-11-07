@@ -25,11 +25,13 @@ However, as international students, we cannot maintain this routine while studyi
 ## Features and Functions
 In this project, I used several key functions in TunePad to bring each part of the Vietnamese national anthem to life. Here’s how each function contributes to the composition:
 
+
 **PlayNote**: This function plays individual notes based on their MIDI number.
 - Example of using playNote
 playNote(60, beats=1) 
 
 Here, playNote(60, beats=1) plays the note with MIDI number 60 (Middle C) for 1 beat.
+
 
 **Rest**: The Rest function introduces pauses between notes.
 - Example of a Rest
@@ -37,11 +39,13 @@ Rest(beats=0.5)
 
 This half-beat rest creates a break in the melody, giving it rhythm and emphasis.
 
+
 **Beats**: This parameter specifies how long a note or rest should last.
 - Example of beats in playNote
 playNote(62, beats=2) 
 
 Setting beats=2 makes the note last longer, aligning with the anthem’s tempo and flow.
+
 
 **Chord**: This function allows multiple notes to play simultaneously.
 - Example of a chord
@@ -50,11 +54,13 @@ playNote(chord, beats=1.5)
 
 In this example, playNote(chord, beats=1.5) plays a C major chord, adding harmonic depth.
 
+
 **Velocity**: This parameter adjusts the volume or intensity of a note.
 - Example with velocity
 playNote(60, beats=1, velocity=100)  # Plays Middle C loudly
 
 Setting velocity=100 makes the note louder, emphasizing strong parts of the anthem.
+
 
 Combining these functions, I structured the anthem with a melody line on the piano and accompaniment parts played by additional instruments (bass and guitar) to create a fuller sound. This setup in TunePad allowed me to balance technical accuracy with cultural authenticity, resulting in a familiar and emotionally resonant rendition.
 
