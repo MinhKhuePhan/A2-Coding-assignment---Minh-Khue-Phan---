@@ -25,15 +25,36 @@ However, as international students, we cannot maintain this routine while studyi
 ## Features and Functions
 In this project, I used several key functions in TunePad to bring each part of the Vietnamese national anthem to life. Here’s how each function contributes to the composition:
 
-- PlayNote: This function is used to play individual notes, forming the core melody of the anthem. By specifying different notes, I was able to recreate the anthem’s main theme on the piano, ensuring it resonates with the familiar tune that Vietnamese students remember.
+- PlayNote: This function plays individual notes based on their MIDI number.
+ ### Example of using playNote
+playNote(60, beats=1)  # Plays Middle C for 1 beat
 
-- Rest: The Rest function introduces pauses between notes, allowing for natural breaks in the melody. This is essential to accurately reflect the rhythm of the anthem, adding emphasis where needed and making the piece feel more authentic.
+Here, playNote(60, beats=1) plays the note with MIDI number 60 (Middle C) for 1 beat.
 
-- Beats: The beats parameter determines the duration of each note, allowing me to control how long each note is held. This parameter is crucial for aligning with the tempo and rhythm of the anthem, ensuring the melody flows smoothly from one note to the next.
+- Rest: The Rest function introduces pauses between notes.
+### Example of a Rest
+Rest(beats=0.5)  # Adds a half-beat pause
 
-- Chord: Some parts of the anthem require multiple notes to be played simultaneously. The Chord function allows for this by enabling me to define chords (collections of notes) and play them together, adding depth to the piece and enriching the overall harmony.
+This half-beat rest creates a break in the melody, giving it rhythm and emphasis.
 
-- Velocity: The velocity parameter controls the intensity or volume of each note, allowing me to add emotional emphasis at certain points. For example, I increased the velocity at the end of each verse to capture the anthem's powerful and patriotic tone, making the music feel more impactful.
+- Beats: This parameter specifies how long a note or rest should last.
+### Example of beats in playNote
+playNote(62, beats=2)  # Plays D4 for 2 beats
+
+Setting beats=2 makes the note last longer, aligning with the anthem’s tempo and flow.
+
+- Chord: This function allows multiple notes to play simultaneously.
+### Example of a chord
+chord = [60, 64, 67]  # Define a C major chord (C, E, G)
+playNote(chord, beats=1.5)  # Plays the chord for 1.5 beats
+
+In this example, playNote(chord, beats=1.5) plays a C major chord, adding harmonic depth.
+
+- Velocity: This parameter adjusts the volume or intensity of a note.
+### Example with velocity
+playNote(60, beats=1, velocity=100)  # Plays Middle C loudly
+
+Setting velocity=100 makes the note louder, emphasizing strong parts of the anthem.
 
 Combining these functions, I structured the anthem with a melody line on the piano and accompaniment parts played by additional instruments (bass and guitar) to create a fuller sound. This setup in TunePad allowed me to balance technical accuracy with cultural authenticity, resulting in a familiar and emotionally resonant rendition.
 
