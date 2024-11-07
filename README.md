@@ -12,7 +12,7 @@
 - [Challenges and Solutions](#challenges-and-solutions)
 - [Future Improvements](#future-improvements)
 - [References](#references)
-- [Contacts](#contacts)
+- [Contact](#contact)
 
 
 
