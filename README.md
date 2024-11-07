@@ -76,42 +76,44 @@ To experience the recreated Vietnamese national anthem in TunePad, you can view 
 
 [View Project on TunePad](https://tunepad.com/project/90374)
 
+> This link provides a read-only view, allowing you to listen to the anthem and explore the code without the ability to make changes.
 
-This link provides a read-only view, allowing you to listen to the anthem and explore the code without the ability to make changes. Simply follow these steps:
+Simply follow these steps:
 
-Open the Link: Click on the [project link](https://tunepad.com/project/90374) to open the TunePad project page.
+- **Open the Link**: Click on the [project link](https://tunepad.com/project/90374) to open the TunePad project page.
 
-Explore the Code: On the project page, you can view the code I used to recreate the anthem, including the functions PlayNote, Rest, Beats, Chord, and Velocity.
+- **Explore the Code**: On the project page, you can view the code I used to recreate the anthem, including the functions PlayNote, Rest, Beats, Chord, and Velocity.
+
 
 The project is organized into different cells:
 
-- Melody on Piano: The main melody line of the anthem.
+**Melody on Piano**: The main melody line of the anthem.
   
-- Piano Accompaniment: Chord progressions to support the melody.
+**Piano Accompaniment**: Chord progressions to support the melody.
   
-- Bass Accompaniment: Adds depth with bass notes.
+**Bass Accompaniment**: Adds depth with bass notes.
   
-- Guitar Accompaniment: Complements the melody with additional harmony.
+**Guitar Accompaniment**: Complements the melody with additional harmony.
 
 
-Play the Music: Use the play button in TunePad to listen to the coded rendition of the anthem. This will show you how the melody and accompaniment come together. 
+- **Play the Music**: Use the play button in TunePad to listen to the coded rendition of the anthem. This will show you how the melody and accompaniment come together. 
 
 First, on the top right, you will see 2 buttons, triangle and square. 
 
 <img width="514" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 25 07 CH" src="https://github.com/user-attachments/assets/cb08e09a-805b-46bd-bd83-fc006ea7295b">
 
-Step 1: Press the square button to restart every cell. 
+**Step 1**: Press the square button to restart every cell. 
 
-Step 2: To start playing the music, press the triangle button. 
+**Step 2**: To start playing the music, press the triangle button. 
 
 ### How to Upload a JSON File to TunePad
-- Access the JSON File: Locate the JSON file on top of the README file.  
+- **Access the JSON File**: Locate the JSON file on top of the README file.  
 
-- Download the Raw File: Click to download the raw file. It may download with the name "JSON file.txt".
+- **Download the Raw File**: Click to download the raw file. It may download with the name "JSON file.txt".
 
-- Rename the File: Change the file extension from "JSON file.txt" to "JSON file.JSON". Confirm and save the changes.
+- **Rename the File**: Change the file extension from "JSON file.txt" to "JSON file.JSON". Confirm and save the changes.
 
-- Upload to TunePad:Open TunePad. Go to Project > Import. Select the renamed file "JSON file.JSON" and upload it.
+- **Upload to TunePad**:Open TunePad. Go to Project > Import. Select the renamed file "JSON file.JSON" and upload it.
 
 You should now have the project imported into TunePad and ready for use.
 
@@ -145,9 +147,9 @@ On the right-hand side, in the cell sections, I have 1 cell for melody playing o
 ## Challenges and Solutions
 I encountered several challenges while coding this song.
 
-- Setting the Beats: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI) and gradually figured out the appropriate beats for each note.
+- **Setting the Beats**: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI) and gradually figured out the appropriate beats for each note.
 
-- Playing Multiple Notes Simultaneously: Initially, I was unsure how to play multiple notes at the same time. To address this, I researched examples on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
+- **Playing Multiple Notes Simultaneously**: Initially, I was unsure how to play multiple notes at the same time. To address this, I researched examples on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
 
 
 ## Future Improvements
