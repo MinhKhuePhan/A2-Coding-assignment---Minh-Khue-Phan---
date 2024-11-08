@@ -128,7 +128,7 @@ You will see the music sheet set, with the BPM being 120 and 4/4. That is why, o
 
 <img width="382" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 35 25 CH" src="https://github.com/user-attachments/assets/4f758c55-97fd-44ea-b672-e73d7571cbc4">
 
-On the right-hand side, in the cell sections, I have 1 cell for melody playing on the piano and 3 other cells for accompaniment playing on the piano, bass, and guitar. 
+On the right-hand side, in the cell sections, I have one cell for melody playing on the piano and three other cells for accompaniment playing on the piano, bass, and guitar. 
 
 <img width="226" alt="Ảnh chụp Màn hình 2024-11-05 lúc 3 39 59 CH" src="https://github.com/user-attachments/assets/f84eb9df-c055-4314-bbfd-2757493bc8ce">
 
@@ -149,30 +149,43 @@ I encountered several challenges while coding this song.
 
 - **Setting the Beats**: One of the main issues was determining the duration for each note, as the music sheet didn’t specify this. To solve this, I watched performances of the anthem on piano [like this one on YouTube](https://www.youtube.com/watch?v=JBDmWrH3OGI) and gradually figured out the appropriate beats for each note.
 
-- **Playing Multiple Notes Simultaneously**: Initially, I was unsure how to play multiple notes at the same time. To address this, I researched examples on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
+- **Playing Multiple Notes Simultaneously**: I initially needed help with how to play multiple notes simultaneously. To address this, I simultaneously worked on TunePad and learned how to use the chord function to play notes together, allowing me to add depth and harmony to the piece.
 
 
 ## Future Improvements
 In the future, I would like to expand the project by including additional verses of the anthem, as I currently focus only on the main verse commonly sung by students. Given more time, I plan to code the other verse to render the anthem completely.
 
-Additionally, I feel something may be missing in the current version, perhaps due to the coding limitations or playback speed in TunePad. I’ve noticed that this version feels a bit slower than expected. To address this, I’ll experiment with tempo adjustments and playback features to capture the anthem’s full energy and pace.
+Additionally, I feel something may need to be added in the current version, perhaps due to the coding limitations or playback speed in TunePad. I’ve noticed that this version feels a bit slower than expected. To address this, I’ll experiment with tempo adjustments and playback features to capture the anthem’s total energy and pace.
 
-Moreover, I aim to make the coding more dynamic and expressive by incorporating more advanced functions beyond the basic four I used initially. By adding varied techniques and code functions, I hope to make the project more vibrant and musically rich, capturing the full spirit of the anthem.
+Moreover, I aim to make the coding more dynamic and expressive by incorporating more advanced functions beyond the basic four I used initially. By adding primary techniques and code functions, I hope to make the project more vibrant and musically rich, capturing the full spirit of the anthem.
 
 
-## References
+## Reference
+
+Code with Vlad. (2020). Learn JSON in 4 minutes - JSON tutorial for beginners [Video]. YouTube. https://www.youtube.com/watch?v=NyAV73WLTpE
+
+Ford, P. (2015). What is code? Bloomberg. https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+GeeksforGeeks. (2020). Introduction to graphs - Data structure and algorithm tutorials. https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/
 
 Grigsby, C. (2023). Python for students [LinkedIn Learning course]. LinkedIn. https://www.linkedin.com/learning/python-for-students-2023
 
-LANDR. (2020, February 8). Music scales explained in 6 minutes [Video]. YouTube. https://www.youtube.com/watch?v=PG_u4NDJtwU
+KadirMedia. (2022). JSON Explained in 2 Minutes | What is JSON | JSON Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=citY-4vA5rE
 
-National Assembly of Vietnam. (n.d.). Tiến quân ca [PDF file]. Retrieved from https://quochoi.vn/content/tintuc/Lists/News/Attachments/30645/1.Ti%E1%BA%BFn%20qu%C3%A2n%20ca.pdf
+LANDR. (2020). Music scales explained in 6 minutes [Video]. YouTube. https://www.youtube.com/watch?v=PG_u4NDJtwU
+
+Mayer-Schönberger, V., & Cukier, K. (2013). Big data: A revolution that will transform how we live, work, and think. Houghton Mifflin Harcourt.
+
+National Assembly of Vietnam. (n.d.). Tiến quân ca [PDF file]. https://quochoi.vn/content/tintuc/Lists/News/Attachments/30645/1.Ti%E1%BA%BFn%20qu%C3%A2n%20ca.pdf
+
+Real Python. (2024). Basic data types in Python – Real Python. https://realpython.com/python-data-types/
 
 TunePad. (n.d.). TunePad documentation. TunePad. https://learn.tunepad.com/docs/
 
 TunePad. (2024). TunePad piano. Learn TunePad. https://learn.tunepad.com/interactives/piano/
 
 Vietnamese Musician. (2017). Quốc ca Việt Nam - Tiến quân ca (Vietnamese National Anthem - Marching Song) [Video]. YouTube. https://www.youtube.com/watch?v=JBDmWrH3OGI
+
 
 
 
@@ -186,5 +199,5 @@ Email: Minh.K.Phan@student.uts.edu.au
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+<!-- You don't have to include all sections - just the ones relevant to your project -->
 
